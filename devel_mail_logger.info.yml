@@ -1,0 +1,6 @@
+name: 'Devel Mail Logger'
+type: module
+description: 'A Custom Mail Interface that logs mail to DB'
+package: Development
+tags:
+ - developer
